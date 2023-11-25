@@ -44,7 +44,7 @@ Include a description of the architecture of your project and how the different 
 3. Load the transformed data back to Data Lake for analysis.
 - Our code is available under **Tokyo Olympic Transformation.ipynb** Notebook File for Spark Transformations.
 
-![](Images/DataAnalytics.png)
+![](Images/DataTransformation.png)
 
 ## Data Analysis
 
