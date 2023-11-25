@@ -58,47 +58,39 @@ In our Case we choose to create Pipeline to create analytical data so that we ca
 
 ### Counting the Number of Athletes by Country
 
-[Add image for Counting Number of Athletes by Country]
 
 
 ### Number of Teams By Country
 
-[Add image for Number of Teams By Country]
 
 
 ### Top Countries By Medals Won
 
-[Add image for Top Countries By Medals Won]
 
 ### Top Disciplines in Participation
 
-[Add image for Top Disciplines in Participation]
 
 
 ### Top Countries by Participants
 
-[Add image for Top Countries by Participants]
 
 
 ### Number of Teams Per Events in Discipline
 
-[Add image for Number of Teams Per Events in Discipline]
 
 
 ### Number of Coaches By Country
 
-[Add image for Number of Coaches By Country]
 
 
 ### Main Disciplines Of Coaches
 
-[Add image for Main Disciplines Of Coaches]
 
 ## Data Visualization
 
 ### Step 3: Data Visualization using Tableau.
+![](Tableau-Dashboard/olympicsDashboard_Mehdi_Touil.png)
 
-![Add image for Main Disciplines Of Coaches]
 
 
 ## License
