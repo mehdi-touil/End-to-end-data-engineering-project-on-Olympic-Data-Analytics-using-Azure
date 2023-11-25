@@ -88,7 +88,7 @@ In our Case we choose to create Pipeline to create analytical data so that we ca
 
 ## Data Visualization
 
-### Step 3: Data Visualization using Tableau.
+### Step 4: Data Visualization using Tableau.
 ![](Tableau-Dashboard/olympicsDashboard_Mehdi_Touil.png)
 
 
