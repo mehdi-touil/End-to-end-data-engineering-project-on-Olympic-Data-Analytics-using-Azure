@@ -1,5 +1,5 @@
 # Olympic 2021 Data Analysis using Azure
-![Images/dataset-cover.jpg]
+![](Images/dataset-cover.jpg)
 ## Table of Contents
 - [Overview](#overview)
 - [Architecture](#architecture)
@@ -25,8 +25,7 @@ This project analyzes Olympic 2021 data using Azure services, including Azure Da
 
 Include a description of the architecture of your project and how the different Azure services interact. 
 
-![Images/Architecture.png]
-
+![](Images/Architecture.png)
 ## Data Ingestion
 
 ### Step 1: Ingest Data To Our DataLake
@@ -34,7 +33,7 @@ Include a description of the architecture of your project and how the different 
 1. Extract raw data from this Github Repository using Azure Data Factory.
 2. Ingest the dataset By building a data flow and loading it into Azure Data Lake storage. 
 
-![Images/DataIngestion.png]
+![](Images/DataIngestion.png)
 
 ## Data Transformation
 
@@ -45,7 +44,7 @@ Include a description of the architecture of your project and how the different 
 3. Load the transformed data back to Data Lake for analysis.
 - Our code is available under **Tokyo Olympic Transformation.ipynb** Notebook File for Spark Transformations.
 
-![Images/DataAnalytics.png]
+![](Images/DataAnalytics.png)
 
 ## Data Analysis
 
@@ -54,7 +53,7 @@ Include a description of the architecture of your project and how the different 
 Use Synapse Analytics to run SQL queries on transformed data and visualize insights.
 In our Case we choose to create Pipeline to create analytical data so that we can visualize in Tableau.
 
-![Images/DataAnalytics.png]
+![](Images/DataAnalytics.png)
 
 
 ### Counting the Number of Athletes by Country
